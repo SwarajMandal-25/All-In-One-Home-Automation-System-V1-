@@ -14,7 +14,7 @@
 
 
 ## Configuration
-Download and instal Arduino IDE. Open Arduino IDE and go to files and then preferences, copy and paste the ESP32 board package version link (Provided in the required libraries section) in the additional boards manager url section, and click 'OK'
+Download and instal Arduino IDE. Open Arduino IDE and go to files and then preferences, copy and paste the ESP32 board package version link (Provided in the required libraries section) in the additional boards manager url section, and click **OK**.
 ![image]()
 ![image]()
 
@@ -26,6 +26,14 @@ Now download other three libraries, provided in th required libraries section. N
 ![image]()
 ![image]()
 
-Now extract the zip file named firmare.zip, and open the 'AIO_Home_Automation.ino' file with Arduino IDE. connect the ESP32 with your PC. In Arduino IDE, go to the **Tools** tab, under **Boards:** menu, inside **esp32**, select "**ESP32 Dev Module**"
+Now extract the zip file named firmare.zip, and open the 'AIO_Home_Automation.ino' file with Arduino IDE. connect the ESP32 with your PC. In Arduino IDE, go to the **Tools** tab, under **Boards:** menu, inside **esp32**, select "**ESP32 Dev Module**".
 ![image]()
 
+Again go to **Tools** tab, under **Port:** select the right **COM Port** associated to your **ESP32 Board**.
+![image]()
+
+Again go to **Tools** tab, under **Partition Scheme:** select **RainMaker**.
+![image]()
+
+Now click the **Upload** button on the top left corner of the Arduino IDE.
+![image]()
