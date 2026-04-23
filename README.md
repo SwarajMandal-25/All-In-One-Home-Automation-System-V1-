@@ -41,3 +41,10 @@ Now click the **Upload** button on the top left corner of the Arduino IDE.
 Now open the **Serial Monitor** by clicking the icon on the top right corner of the screen.
 ![image]()
 
+Now press and hold the **EN/ Reset** button for more than **10 seconds**.
+![image]()
+
+After 10 seconds, release the button. Then on the serial monitor an URL will appair. Copy your URL and paste it in a browser search box and hit "**Enter**". You will get a QR code on the browser screen.
+![image]()
+![image]()
+
