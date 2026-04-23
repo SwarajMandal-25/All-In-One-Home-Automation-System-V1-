@@ -37,3 +37,7 @@ Again go to **Tools** tab, under **Partition Scheme:** select **RainMaker**.
 
 Now click the **Upload** button on the top left corner of the Arduino IDE.
 ![image]()
+
+Now open the **Serial Monitor** by clicking the icon on the top right corner of the screen.
+![image]()
+
