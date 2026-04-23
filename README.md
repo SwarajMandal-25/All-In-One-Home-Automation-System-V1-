@@ -14,4 +14,18 @@
 
 
 ## Configuration
-Download and instal Arduino IDE. Open Arduino IDE and go to files and then preferences, copy and paste the ESP32 board package version link (Provided in the required libraries section) in the additional boards manager url section, and download ESP32 board library version 2.0.4. Now download other three libraries, provided in th required libraries section. Now in Arduino Ide go to sketch tab and then click add file, now add the libraries one by one.
+Download and instal Arduino IDE. Open Arduino IDE and go to files and then preferences, copy and paste the ESP32 board package version link (Provided in the required libraries section) in the additional boards manager url section, and click 'OK'
+![image]()
+![image]()
+
+And download ESP32 board library version 2.0.4.
+![image]()
+![image]()
+
+Now download other three libraries, provided in th required libraries section. Now in Arduino Ide go to 'Sketch' tab and then click 'Include library, now add the libraries one by one. 
+![image]()
+![image]()
+
+Now extract the zip file named firmare.zip, and open the 'AIO_Home_Automation.ino' file with Arduino IDE. connect the ESP32 with your PC. In Arduino IDE, go to the **Tools** tab, under **Boards:** menu, inside **esp32**, select "**ESP32 Dev Module**"
+![image]()
+
