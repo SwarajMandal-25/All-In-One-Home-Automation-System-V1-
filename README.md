@@ -48,3 +48,7 @@ After 10 seconds, release the button. Then on the serial monitor an URL will app
 ![image]()
 ![image]()
 
+Now go to the **"ESP RainMaker App"** on your Android/ IOS device. Make sure that your Bluetooth, Wifi and Location is turned on and currently connected to a Wifi network. Tap on **Add Device"**, a QR scanner will appear. Now scan the QR code appeared on the browser using the scanner. After that it will ask for Wifi SSID & Password. Provide the same SSID & Password where your Android/ IOS device is connected. it will take some time to connect with Wifi. After connection is successful tap on the **"Done"** button.
+![image]()
+
+Now you can see all the devices are online on the Device tab.
